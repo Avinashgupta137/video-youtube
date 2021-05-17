@@ -1,0 +1,3 @@
+import pywhatkit
+videoname = input("Enter the name of video:")
+pywhatkit.playonyt(videoname)
